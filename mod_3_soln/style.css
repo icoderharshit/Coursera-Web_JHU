@@ -1,0 +1,25 @@
+html{
+    scroll-behavior: smooth;
+}
+.nav-link{
+    padding-left:0px;
+    padding-right:0px;
+ color: white;   
+ font-size: 17px;
+}
+.nav-link:hover{
+color: rgb(201, 201, 201);
+}
+section{
+    background-color: rgb(236, 235, 235);
+padding: 10px 20px 10px 20px;
+margin-bottom: 20px;
+border: 1px solid black;
+transition: 0.1s ease-in;
+}
+.container{
+    margin-top: 30px !important;
+}
+h1{
+    margin-top: 20px;
+}
